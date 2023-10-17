@@ -8,3 +8,5 @@ public class ResultadoEscolar {
             System.out.println("Reprovado");
     }
 }
+
+// Condicional Composta
